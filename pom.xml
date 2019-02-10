@@ -21,7 +21,7 @@
                   </goals>
                   <configuration>
                      <tasks>
-                        <echo>clean phase</echo>
+                        <echo>hai hema </echo>
                      </tasks>
                   </configuration>
                </execution>     
